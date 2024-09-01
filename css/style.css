@@ -129,3 +129,24 @@
         opacity: 1; /* Show button on hover */
         transform: translateX(-50%) scale(1.1); /* Slightly scale the button */
     }
+
+
+    A brief description of the design choices made during the development process.
+
+    /* 1. Responsive Layout:
+    Grid System: We utilized the Bootstrap grid system and CSS Grid Layout to create a responsive and flexible design. This allows the layout to adapt seamlessly across different screen sizes, ensuring a user-friendly experience on desktops, tablets, and mobile devices.
+    2. Visual Hierarchy:
+    Card Design: Each card was designed to maintain a consistent and uniform height, creating a clean and organized appearance. The content within the cards (images, titles, prices, etc.) was arranged to guide the user's focus from the most important elements (like the product image and name) to the supporting details.
+    Typography: Font weights and sizes were carefully selected to establish a clear visual hierarchy. Larger, bolder fonts were used for product names and prices to draw attention, while smaller fonts were used for supplementary information.
+    3. Interactivity:
+    Hover Effects: Smooth transitions were applied to images within the cards, allowing users to see an alternate image upon hovering. This adds a layer of interactivity, enhancing the user experience by providing additional product views without leaving the page.
+    Button Visibility: The "Buy Now" buttons are designed to appear with a smooth transition effect when users hover over a card. This keeps the interface clean and uncluttered while still making the call-to-action readily accessible when needed.
+    4. Consistent Aesthetics:
+    Color Scheme and Borders: A consistent color scheme was used throughout the design, with borders  added to the cards to create a subtle yet effective separation between elements. This contributes to a cohesive look and feel across the entire project.
+    Box Shadows: The box-shadow effect on cards adds depth, making the design more visually appealing while maintaining a modern, flat design aesthetic.
+    5. User-Centric Design:
+    Ease of Navigation: The overall layout was kept simple and intuitive, with clear calls to action and easy navigation, ensuring users can find and purchase products with minimal friction.
+    Accessibility: Considerations were made to ensure text is readable and buttons are easily clickable, even on smaller screens, to provide a positive experience for all users.
+    These design choices collectively contribute to a user-friendly, visually appealing, and responsive landing page  eCommerce site that enhances the shopping experience across all devices.
+     */
+    
